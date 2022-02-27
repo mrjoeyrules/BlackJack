@@ -1,14 +1,15 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "Validation.h"
 #include "AccountSystem.h"
-#include "MainMenu.h"
 using namespace std;
 
-int main()
+void AccountSystem::LogIn()
 {
-    MainMenu mm;
-    mm.mainMenu();
+
 }
 
+void AccountSystem::AccountCreator()
+{
+
+}

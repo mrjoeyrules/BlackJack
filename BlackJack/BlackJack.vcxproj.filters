@@ -18,5 +18,25 @@
     <ClCompile Include="BlackJack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Validation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Validation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountSystem.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

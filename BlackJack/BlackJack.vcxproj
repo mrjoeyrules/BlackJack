@@ -140,6 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BlackJack.cpp" />
+    <ClCompile Include="AccountSystem.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="Validation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AccountSystem.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="Validation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
