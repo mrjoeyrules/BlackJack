@@ -27,16 +27,22 @@
     <ClCompile Include="MainMenu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FileSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Validation.h">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="FileSystem.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="AccountSystem.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="MainMenu.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Validation.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
