@@ -20,7 +20,9 @@ void MainMenu::mainMenu()
         menuChoice = val.intValidation("Pick an option please:\n1. Log In:\n2. Create an Account:\n3. Exit:\n");
         if (menuChoice == menuChoices[0])
         {
+			loopControl = false;
             accSys.LogIn();
+
         }
         else if (menuChoice == menuChoices[1])
         {
